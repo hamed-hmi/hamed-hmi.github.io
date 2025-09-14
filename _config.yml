@@ -2,27 +2,37 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: "Ahmad (Hamed) Hashemi" # website title (will also show in browser tab)
 first_name: Ahmad (Hamed)
-middle_name: 
+middle_name:
 last_name: Hashemi
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  PhD candidate
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
-lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+author:
+  name: "Ahmad (Hamed) Hashemi"
+  email: "s.ahmad.hmi@gmail.com"
+  github: "hamed-hmi"
+  linkedin: "ahmad-hashemi"   # e.g., "ahmad-hashemi"
+  scholar: "https://scholar.google.com/citations?user=3ucmZ7oAAAAJ&hl=en"         # optional
+  orcid: "https://orcid.org/0000-0003-2853-4963"             # optional
 
-url: https://alshedivat.github.io # the base hostname & protocol for your site
-baseurl: /al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
-last_updated: false # set to true if you want to display last updated in the footer
-impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
-back_to_top: true # set to false to disable the back to top button
+contact_note: >
+  The best way to reach me is via email or LinkedIn.
+description: > # short tagline under your name
+  PhD Candidate in Information Technology | AI & Machine Learning Researcher  
+  Specializing in NLP, AI-Generated Text Detection, and Federated Learning
+footer_text: >
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.  
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.  
+  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+keywords: ai, machine learning, data science, nlp, federated learning, academic-website, portfolio
+lang: en
+icon: ⚛️ # you can change this emoji if you want a different favicon
+
+url: https://hamed-hmi.github.io # your GitHub Pages site address
+baseurl: "" # leave empty since your site is at the root
+last_updated: false
+impressum_path:
+back_to_top: true
+
 
 # -----------------------------------------------------------------------------
 # Theme
