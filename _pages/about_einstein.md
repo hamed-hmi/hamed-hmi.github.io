@@ -1,5 +1,12 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I’m **Ahmad (Hamed) Hashemi**, a PhD candidate in Information Technology at Carleton University, Ottawa, supervised by Prof. Wei Shi. My research focuses on **Natural Language Processing (NLP), Machine Learning, and Federated Learning** with applications in **AI-generated text detection, writing style analysis, and wireless communications**.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I have developed and published multiple projects at the intersection of **AI and applied data science**:
+- **AI-Generated Text Detection**: Building models to distinguish between human-written, AI-polished, and AI-generated content at document and sentence levels.
+- **Federated Learning for NLP**: Designing privacy-preserving distributed learning approaches for text classification tasks across multiple clients.
+- **Wireless Channel Estimation**: Exploring FL-based solutions for 5G Massive MIMO and RIS-aided systems.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Beyond research, I enjoy applying my skills to **practical ML and data science problems**. I have hands-on experience with **PyTorch, Hugging Face Transformers, Python data pipelines, and visualization tools**. I also mentor students as a teaching assistant and collaborate with teams on interdisciplinary projects.
+
+📌 I’m now preparing for the **next step of my career** as a **Data Scientist / ML Engineer**, where I aim to bring my expertise in **deep learning, NLP, and scalable AI systems** to real-world challenges.  
+
+When I’m not coding or writing, you might find me exploring Ottawa on my e-bike, reading about AI ethics, or discovering new ways to connect research with industry applications.
